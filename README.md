@@ -1,2 +1,2 @@
-# jemory
-Library for interaction with memory
+# Jemory
+A library for interacting with memory using JNA (Windows).
